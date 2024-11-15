@@ -1,5 +1,3 @@
----
-
 # SortMaster  
 **SortMaster** is a C++ project designed to showcase and experiment with various sorting algorithms. It includes utility functions for generating and manipulating arrays, as well as a flexible sorting factory to easily switch between different algorithms.
 
